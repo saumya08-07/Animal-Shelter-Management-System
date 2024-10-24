@@ -1,0 +1,84 @@
+ID,Intake Date,Intake Reason,Shelter Code,Animal Name,Breed,Species,Age,Gender,Movement Date,Type of Movement,Return Date,Return Reason,Adoption Month
+10005,19-01-2023,Abandoned,S005,Luna,Domestic Long Hair,Cat,2 years 3 months,Female,,Foster,20-02-2023,Allergies to pets,
+10006,20-01-2023,Injured Wildlife,S006,Ollie,Opossum,Tortoise,1 year 1 month,Male,,Transfer,,,
+10007,21-01-2023,Stray,S007,Unnamed,Pitbull,Dog,6 years 4 months,Female,27-01-2023,Adoption,,,January
+10008,22-01-2023,Abandoned,S008,Rocky,Beagle,Dog,3 years 9 months,Male,29-01-2023,Adoption,05-03-2023,Moved to a no-pets apartment,January
+10009,23-01-2023,Moving,S009,Bella,Domestic Short Hair,Cat,2 years 6 months,Female,01-02-2023,Adoption,15-03-2023,New baby in the family,February
+10010,24-01-2023,Incompatible with owner lifestyle,S010,Leo,Rottweiler,Dog,4 years 1 month,Male,,Foster,10-03-2023,Behavioral issues,
+10011,01-02-2023,Stray,S011,Unnamed,American Shorthair,Cat,5 years 0 months,Male,05-02-2023,Adoption,,,February
+10012,02-02-2023,Abandoned,S012,Binky,Holland Lop,Rabbit,1 year 2 months,Female,10-02-2023,Adoption,,,February
+10013,03-02-2023,Found injured,S013,Snowball,Dwarf Hamster,Hamster,6 months 0 days,Male,07-02-2023,Adoption,,,February
+10014,04-02-2023,Stray,S014,Unnamed,Burmese,Cat,3 years 4 months,Female,10-02-2023,Adoption,15-03-2023,Unable to integrate with pets,February
+10015,05-02-2023,Owner passed away,S015,Charlie,Golden Retriever,Dog,7 years 5 months,Male,12-02-2023,Adoption,,,February
+10016,06-02-2023,Stray,S016,Unnamed,Persian,Cat,2 years 0 months,Female,,Foster,28-02-2023,Found a friend to adopt,
+10017,07-02-2023,Moving,S017,Max,Chihuahua,Dog,6 years 2 months,Male,15-02-2023,Adoption,12-05-2023,Behavioral issues,February
+10018,08-02-2023,Abandoned,S018,Ginger,Domestic Short Hair,Cat,4 years 3 months,Female,20-02-2023,Adoption,18-06-2023,Allergies in the household,February
+10019,09-02-2023,Stray,S019,Unnamed,Border Collie,Dog,3 years 0 months,Male,25-02-2023,Adoption,15-07-2023,Too energetic for family,February
+10020,10-02-2023,Owner passed away,S020,Simba,Bengal,Cat,5 years 6 months,Male,27-02-2023,Adoption,,,February
+10021,11-02-2023,Incompatible with other pets,S021,Coco,Poodle,Dog,2 years 7 months,Female,01-03-2023,Adoption,,,March
+10022,12-02-2023,Moving,S022,Buster,Bulldog,Dog,3 years 5 months,Male,05-03-2023,Adoption,,,March
+10023,13-02-2023,Found abandoned,S023,Lola,Domestic Long Hair,Cat,1 year 8 months,Female,07-03-2023,Adoption,,,March
+10024,14-02-2023,Stray,S024,Unnamed,Siamese,Cat,2 years 2 months,Female,10-03-2023,Adoption,,,March
+10025,15-02-2023,Abandoned,S025,Ruby,Jack Russell Terrier,Dog,4 years 0 months,Female,12-03-2023,Adoption,20-08-2023,Too vocal,
+10026,16-02-2023,Stray,S026,Unnamed,American Shorthair,Cat,3 years 3 months,Male,15-03-2023,Adoption,30-05-2023,Behavioral issues,
+10027,17-02-2023,Incompatible with owner lifestyle,S027,Milo,Golden Retriever,Dog,5 years 1 month,Male,17-03-2023,Adoption,25-09-2023,Owner had a baby,
+10028,18-02-2023,Moving,S028,Daisy,Dachshund,Dog,2 years 6 months,Female,20-03-2023,Adoption,02-11-2023,Did not bond with new family,
+10029,19-02-2023,Stray,S029,Unnamed,Beagle,Dog,4 years 4 months,Male,22-03-2023,Adoption,15-06-2023,Escape artist,March
+10030,20-02-2023,Abandoned,S030,Peanut,Domestic Short Hair,Cat,1 year 4 months,Male,25-03-2023,Adoption,,,March
+10031,21-02-2023,Stray,S031,Unnamed,Poodle,Dog,6 years 1 month,Female,27-03-2023,Adoption,22-09-2023,Aggression issues,March
+10032,22-02-2023,Incompatible with other pets,S032,Bella,Siamese,Cat,3 years 0 months,Female,30-03-2023,Adoption,,,
+10033,23-02-2023,Found injured,S033,Rex,Bulldog,Dog,2 years 3 months,Male,01-04-2023,Adoption,,,April
+10034,24-02-2023,Owner passed away,S034,Nala,Domestic Long Hair,Cat,5 years 7 months,Female,03-04-2023,Adoption,,,April
+10035,25-02-2023,Moving,S035,Simba,Siamese,Cat,3 years 2 months,Male,05-04-2023,Adoption,28-07-2023,Housing restrictions,April
+10036,26-02-2023,Abandoned,S036,Max,German Shepherd,Dog,2 years 5 months,Male,07-04-2023,Adoption,05-09-2023,High energy,April
+10037,27-02-2023,Stray,S037,Unnamed,Beagle,Dog,4 years 0 months,Female,10-04-2023,Adoption,,,
+10038,28-02-2023,Found abandoned,S038,Buddy,Bulldog,Dog,6 years 4 months,Male,12-04-2023,Adoption,15-08-2023,Not suitable for apartment life,April
+10039,01-03-2023,Moving,S039,Luna,Golden Retriever,Dog,1 year 8 months,Female,15-04-2023,Adoption,08-09-2023,Family moving overseas,April
+10040,02-03-2023,Abandoned,S040,Kitty,Domestic Long Hair,Cat,4 years 6 months,Female,17-04-2023,Adoption,,,
+10041,03-03-2023,Stray,S041,Unnamed,Labrador Retriever,Dog,5 years 3 months,Male,20-04-2023,Adoption,,,
+10042,04-03-2023,Owner passed away,S042,Bella,Domestic Short Hair,Cat,2 years 2 months,Female,22-04-2023,Adoption,,,
+10043,05-03-2023,Found injured,S043,Rocky,Poodle,Dog,3 years 7 months,Male,25-04-2023,Adoption,,,
+10044,06-03-2023,Moving,S044,Duke,German Shepherd,Dog,2 years 4 months,Male,27-04-2023,Adoption,,,
+10045,07-03-2023,Incompatible with other pets,S045,Simba,Beagle,Dog,4 years 1 month,Male,30-04-2023,Adoption,25-11-2023,Did not get along with children,April
+10046,17-12-2023,Found injured,S027,Brandon,Domestic Short Hair,Cat,3 years 2 months,Male,16-05-2024,Adoption,28-10-2024,Owner moving overseas,May
+10047,29-08-2024,Stray,S005,Ashley,German Shepherd,Dog,6 years 4 months,Male,17-10-2024,Adoption,27-11-2024,Not suitable for apartment life,October
+10048,13-07-2024,Owner passed away,S042,Teresa,German Shepherd,Dog,6 years 5 months,Female,18-08-2024,Adoption,08-02-2025,Financial reasons,August
+10049,14-08-2024,Moving,S050,Maria,Border Collie,Dog,10 years 6 months,Male,31-08-2024,Adoption,01-02-2025,Not suitable for apartment life,
+10050,04-07-2024,Owner passed away,S050,Diana,Beagle,Dog,9 years 7 months,Female,09-07-2024,Adoption,,,July
+10051,15-01-2024,Stray,S001,Luna,Tabby Cat,Cat,2 years 4 months,Female,22-05-2024,Adoption,15-06-2024,Allergies,May
+10052,02-03-2024,Abandoned,S012,Zoe,Poodle,Dog,4 years 1 month,Female,25-06-2024,Adoption,,,July
+10053,18-04-2024,Found injured,S045,Max,Labrador Retriever,Dog,5 years 3 months,Male,15-08-2024,Adoption,07-09-2024,Too much energy,September
+10054,10-05-2024,Owner moved,S021,Coco,Siamese Cat,Cat,3 years 6 months,Female,01-09-2024,Adoption,02-10-2024,Moving to a pet-free home,October
+10055,05-06-2024,Stray,S009,Buddy,Bulldog,Dog,2 years 9 months,Male,12-11-2024,Adoption,,,December
+10056,12-07-2024,Abandoned,S013,Sophie,Dachshund,Dog,8 years 2 months,Female,01-12-2024,Adoption,10-01-2025,Too old for the kids,January
+10057,01-08-2024,Owner passed away,S022,Tiger,Persian Cat,Cat,7 years 4 months,Male,20-01-2025,Adoption,15-02-2025,Financial reasons,February
+10058,16-09-2024,Stray,S005,Duke,Rottweiler,Dog,4 years 7 months,Male,10-03-2025,Adoption,02-04-2025,Behavior issues,April
+10059,04-10-2024,Found injured,S033,Ginger,Tortoiseshell Cat,Cat,1 year 8 months,Female,20-04-2025,Adoption,,,May
+10060,21-11-2024,Moving,S012,Pepper,Shih Tzu,Dog,5 years 5 months,Female,01-05-2025,Adoption,22-06-2025,Moving into a smaller home,June
+10061,03-12-2024,Stray,S028,Sammy,Cocker Spaniel,Dog,3 years 2 months,Male,10-06-2025,Adoption,15-07-2025,Behavior issues,July
+10062,10-01-2025,Abandoned,S041,Bella,Havanese,Dog,2 years 3 months,Female,25-07-2025,Adoption,30-08-2025,Owner's lifestyle change,August
+10063,15-02-2025,Found injured,S055,Oliver,American Shorthair Cat,Cat,4 years 6 months,Male,18-09-2025,Adoption,,,October
+10064,29-03-2025,Owner moved,S017,Nina,Chihuahua,Dog,3 years 9 months,Female,10-10-2025,Adoption,15-11-2025,Moving to a pet-free building,November
+10065,12-04-2025,Owner passed away,S030,Rex,German Shepherd,Dog,6 years 2 months,Male,05-11-2025,Adoption,,,December
+10066,17-05-2025,Stray,S014,Daisy,Boxer,Dog,5 years 1 month,Female,20-12-2025,Adoption,18-01-2026,Behavior issues,January
+10067,21-06-2025,Abandoned,S038,Jasper,English Bulldog,Dog,4 years 4 months,Male,30-01-2026,Adoption,25-02-2026,Not suitable for the family,
+10068,14-07-2025,Owner moved,S054,Simba,Maine Coon Cat,Cat,3 years 5 months,Male,15-02-2026,Adoption,12-03-2026,Moving into a pet-free apartment,March
+10069,23-08-2025,Found injured,S039,Cleo,Sphynx Cat,Cat,2 years 2 months,Female,05-03-2026,Adoption,,,April
+10070,10-09-2025,Stray,S015,Buddy,Pit Bull,Dog,3 years 8 months,Male,12-04-2026,Adoption,,,May
+10071,31-10-2025,Abandoned,S011,Lily,Scottish Fold Cat,Cat,1 year 11 months,Female,20-05-2026,Adoption,18-06-2026,Moving away,June
+10072,18-11-2025,Found injured,S027,Henry,Basset Hound,Dog,6 years 3 months,Male,10-06-2026,Adoption,20-07-2026,Owner’s health issues,July
+10073,30-12-2025,Owner passed away,S048,Penny,Ragdoll Cat,Cat,4 years 5 months,Female,05-07-2026,Adoption,15-08-2026,Financial reasons,August
+10074,22-01-2026,Stray,S013,Tucker,Chow Chow,Dog,5 years 2 months,Male,01-08-2026,Adoption,,,September
+10075,16-02-2026,Abandoned,S049,Molly,Siberian Husky,Dog,3 years 4 months,Female,20-09-2026,Adoption,,,October
+10076,12-03-2026,Owner moved,S045,Coco,Pug,Dog,2 years 1 month,Female,15-10-2026,Adoption,18-11-2026,Moving to a pet-free home,
+10077,25-04-2026,Found injured,S031,Riley,Akita,Dog,4 years 9 months,Male,25-11-2026,Adoption,,,December
+10078,19-05-2026,Owner passed away,S022,Jasmine,Himalayan Cat,Cat,5 years 6 months,Female,01-12-2026,Adoption,30-01-2027,Financial reasons,January
+10079,15-06-2026,Stray,S006,Bella,Beagle,Dog,3 years 2 months,Female,20-01-2027,Adoption,25-02-2027,Not suitable for apartment life,
+10080,24-07-2026,Abandoned,S017,Shadow,Sphynx Cat,Cat,1 year 4 months,Male,12-02-2027,Adoption,,,March
+10081,09-08-2026,Found injured,S018,Duke,Cocker Spaniel,Dog,2 years 8 months,Male,05-03-2027,Adoption,10-04-2027,Behavior issues,April
+10082,01-09-2026,Owner moved,S024,Sasha,American Bulldog,Dog,5 years 5 months,Female,15-04-2027,Adoption,22-05-2027,Moving into a pet-free building,May
+100223,23-10-2024,Abandoned,1023,Lna,Dog,Dog,12,Malde,12-09-2024,Adoption,,,
+100225,2023-10-23,Abandoned,10233,Laura,Cihuahua,Dog,12,Male,,,,,
+100225,2023-10-12,Abandoned,10233,Sara,Chihuahua,Dog,12,Male,NA,NA,NA,NA,NA
+10023,2023-10-12,abandoned,1,a,do,Dog,12,Male,,,,,
+10023,2023-10-24,abandoned,102236,Sa,d,Dog,12,Male,NA,NA,NA,NA,NA
